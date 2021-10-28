@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Freddie-Grogono
-- 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning Bioinformatics
-- 💞️ I’m looking to collaborate on nothing just yet
-- 📫 How to reach me fg17761@bristol.ac.uk
+Waddup, I assure you that whatever you're looking for, it probably isn't here
 
 <!---
 Freddie-Grogono/Freddie-Grogono is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
